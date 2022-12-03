@@ -83,7 +83,7 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = 'Yuni-MD'
+global.packname = '𝙁𝙖𝙝𝙞𝙡𝘽𝙤𝙩𝙯'
 global.author = '©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 global.wm = 'Yuni-MD | ©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 
