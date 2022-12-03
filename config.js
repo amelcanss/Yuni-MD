@@ -84,8 +84,8 @@ global.fpagedoc = '444'
 
 // Sticker WM
 global.packname = '𝙁𝙖𝙝𝙞𝙡𝘽𝙤𝙩𝙯'
-global.author = '©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.wm = 'Yuni-MD | ©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.author = '©By fahil'
+global.wm = '𝙁𝙖𝙝𝙞𝙡𝘽𝙤𝙩𝙯 | ©By fahil'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
